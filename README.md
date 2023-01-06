@@ -1,16 +1,5 @@
-# business_card_app
+# Business-Card-App
 
-A new Flutter project.
+My Business Card App with an exclusive custom design. 
+Compatible with iOS, Android & Web for a fully support on any device.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
